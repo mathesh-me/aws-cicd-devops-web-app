@@ -9,7 +9,6 @@ Users start by pushing a new commit to the GitHub repository. This triggers the 
 **Note:** The build stage in this project is used to test the Node.js web application. In a real-world scenario, you would also include the build process in this stage.
 
 ## Architecture Diagram 📌
-
 ![aws-cicd-with-eb](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/f430491c-f767-4e2e-a7f6-2ba9f7e20ca5)
 
 ## Prerequisites 📋
