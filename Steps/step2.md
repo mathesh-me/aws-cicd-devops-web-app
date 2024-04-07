@@ -19,6 +19,8 @@ In this step, we will configure the Elastic Beanstalk environment to deploy the 
 
 ![step-1 7](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/84f171f0-8a87-41fb-9fff-e7e746724fc2)
 
+**Wait for some time until Elastic Beanstalk Environment**
+
 ![step-1 8](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/aa63354c-d6a5-4a19-b830-4d0257321b74)
 
 ![step-1 9](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/6131cc7f-80fc-4884-a511-628c2e1decb6)
