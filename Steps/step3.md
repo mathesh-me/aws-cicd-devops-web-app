@@ -1,4 +1,4 @@
-![step-2 30](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/624288fa-b75f-4aa6-a263-52a6d3471a1a)![step-2 30](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/606a44aa-b9f6-42df-af92-170f031d46ed)![step-2 30](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/ea0b0a7d-328f-410e-a2e4-2adf4557b500)![step-2 30](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/bbd421de-979d-4c41-bbc6-b112d666d091)![step-2 30](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/ab834278-da07-437f-938e-504d1814c96b)## Create a Pipeline to Deploy Node.js Application
+## Create a Pipeline to Deploy Node.js Application
 
 In this step, we will create a pipeline to deploy the Node.js web application to an Elastic Beanstalk environment. We will use AWS CodePipeline to create a pipeline that automates the deployment process.
 
