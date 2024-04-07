@@ -10,7 +10,7 @@ Users start by pushing a new commit to the GitHub repository. This triggers the 
 
 ## Architecture Diagram 📌
 
-![Architecture Diagram](images/architecture-diagram.png)
+![aws-cicd-with-eb](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/bcd42e77-b621-486b-8a58-0ff155368218)
 
 ## Prerequisites 📋
 
