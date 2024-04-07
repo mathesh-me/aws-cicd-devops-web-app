@@ -1,6 +1,6 @@
 # End-to-End CI/CD Pipeline for Node.js Web Application using AWS CI/CD Services 🚀
 
-Build a CI/CD pipeline for a Node.js web application using AWS CI/CD services (CodeBuild, CodeDeploy, CodePipeline).
+Build a CI/CD pipeline for a Node.js web application using AWS CI/CD services (**CodeBuild, CodeDeploy, CodePipeline**).
 
 ## Architecture Description 📝
 
