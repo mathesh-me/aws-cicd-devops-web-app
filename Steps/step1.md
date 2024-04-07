@@ -3,7 +3,7 @@
 For the Elastic Beanstalk environment we need to create an instance role that allows the EC2 instances to communicate with other AWS services. But for this project, we are not going to do anything with the instance role. We are just creating it for the sake of creating it. It will not have any policies attached to it. It is just a dummy role.
 
 ### Steps to Create a Instance role Elastic Beanstalk:
-**Navigate to IAM Console**
+1. **Navigate to IAM Console**
 
 ![step-0 1](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/72301a2d-a471-4656-ae4a-4e187315da13)
 
