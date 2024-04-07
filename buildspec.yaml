@@ -1,0 +1,24 @@
+version: 0.2
+
+phases: 
+  install:
+    runtime-versions:
+      nodejs: latest
+    commands:
+      - echo "We are in the installation phase"
+
+  pre_build:
+    commands: 
+      - echo "We are in the pre test phase"
+
+  build:
+    commands:
+      - echo "Installing tidy"
+      - yum install -y tidy
+      - echo "Running tidy"
+      - tidy -q -e index.html
+
+
+  post_build:
+    commands:
+      - echo "We are in the post build phase"
