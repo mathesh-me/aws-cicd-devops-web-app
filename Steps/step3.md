@@ -70,8 +70,7 @@ In this step, we will create a pipeline to deploy the Node.js web application to
 
 ![step-2 29](https://github.com/mathesh-me/aws-cicd-devops-web-app/assets/144098846/ca85b29d-2cb5-4c39-bdc7-800be200548a)
 
-**So makesure to Edit the SourceArtifact Option**<br>
-**There may be a Chance your Pipeline will not run successfully at First, Because the Pipeline triggered automatically after you Click on `Create Pipleine`. We can't edit the SourceArtifact Option in Pipeline Configuration, We only have option to manually edit after Pipeline Creation**<br>
+**So makesure to Edit the SourceArtifact Option. There may be a Chance your Pipeline will not run successfully at First, Because the Pipeline triggered automatically after you Click on `Create Pipleine`. We can't edit the SourceArtifact Option in Pipeline Configuration, We only have option to manually edit after Pipeline Creation**<br>
 **Now trigger the Pipeline by making a Chnages in Respository**
 
 
